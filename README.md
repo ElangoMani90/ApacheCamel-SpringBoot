@@ -1,1 +1,1 @@
-# SpringBootCamelMongoDB
+# Apache camel Spring boot application
